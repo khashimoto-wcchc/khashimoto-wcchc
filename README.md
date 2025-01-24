@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### My name is Kea, I currently work at WCCHC.
 <!--
 **khashimoto-wcchc/khashimoto-wcchc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
